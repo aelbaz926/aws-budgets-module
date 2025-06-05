@@ -5,5 +5,5 @@ module "budget_alerts" {
   daily_cost_limit           = "1000"
   percentage_change_threshold = 5
   absolute_change_threshold  = 100
-  email_recipients           = ["ahmed.ali.elbaz.mohamed@gmail.com"]
+  email_recipients           = ["example@gmail.com"]
 }
